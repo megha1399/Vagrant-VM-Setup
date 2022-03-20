@@ -16,7 +16,7 @@ Go to the specific VM directory which you want to bring up. For example, here ce
   cd Vagrant-VM-Setup/centos7/
 ```
 
-To power on VM (centos7)
+To power on VM
 
 ```bash
   vagrant up
@@ -28,12 +28,12 @@ To login to the running VM
   vagrant ssh
 ```
 
-To power off VM (centos7)
+To power off VM
 ```bash
   vagrant halt
 ```
 
-To destroy VM (centos7)
+To destroy VM
 ```bash
   vagrant destroy
 ```
